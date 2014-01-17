@@ -31,6 +31,7 @@
 	<classpathentry kind="src" path="modules/examples/arithmetic/requestor/cast/src"/>
 	<classpathentry kind="src" path="modules/examples/arithmetic/requestor/parameter/src"/>
 	<classpathentry kind="src" path="modules/examples/arithmetic/src"/>
+	<classpathentry kind="src" path="modules/examples/projekt/src"/>
 	<classpathentry exported="true" kind="lib" path="lib/river/lib/browser.jar" sourcepath="/Volumes/SSD/opt/River-2.2.1/apache-river-src-2.2.1/src"/>
 	<classpathentry exported="true" kind="lib" path="lib/river/lib/classserver.jar" sourcepath="/Users/sobol/jini2_1/source/src"/>
 	<classpathentry exported="true" kind="lib" path="lib/river/lib/destroy.jar" sourcepath="/Volumes/SSD/opt/River-2.2.0/apache-river-src-2.2.0/src"/>
